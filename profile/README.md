@@ -7,7 +7,7 @@
 
 당신만의 관측을 즉시 시작하려면 아래 링크를 클릭하세요
 
-### 👉 **[Collapse - 관측 터미널 접속하기](https://redsunjin.github.io/Collapse/)**
+### 👉 **[Collapse - 관측 터미널 접속하기](https://tangle-studio.github.io/Collapse/)**
 
 
 ---
