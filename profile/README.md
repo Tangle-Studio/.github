@@ -9,6 +9,8 @@
 
 ### 👉 **[Collapse - 관측 터미널 접속하기](https://tangle-studio.github.io/Collapse/)**
 
+### 👉 **[루멘이 수집한 기억 들여다보기](https://tangle-studio.github.io/book/)**
+
 
 ---
 ## 🧬 Who We Are
