@@ -5,6 +5,12 @@
 
 ---
 
+당신만의 관측을 즉시 시작하려면 아래 링크를 클릭하세요
+
+### 👉 **[Collapse - 관측 터미널 접속하기](https://redsunjin.github.io/Collapse/)**
+
+
+---
 ## 🧬 Who We Are
 
 **TANGLE STUDIO**는 **양자 얽힘(Quantum Entanglement)**과 **그래프 이론(Graph Theory)**에서 영감을 받아, 차세대 AI 생산 시스템을 연구하는 크리에이티브 랩입니다.
