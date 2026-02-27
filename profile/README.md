@@ -13,6 +13,7 @@
 
 ### 🕹️ **[Tangle-Ops play](https://tangle-studio.github.io/Tangle-Ops/)**
 
+### 🕵️ **[CoreHacker play](https://tangle-studio.github.io/CoreHacker/)**
 
 ---
 ## 🧬 Who We Are
